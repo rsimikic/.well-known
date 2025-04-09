@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.daon.trustapp",
+      "sha256_cert_fingerprints":
+        ["3B:83:5C:88:91:3E:BE:9D:F7:50:99:AC:4D:39:25:85:C5:8D:D5:0E:D5:83:54:04:08:1D:4C:D8:F7:F8:43:71"]
+    }
+  }
+]
